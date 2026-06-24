@@ -1,5 +1,5 @@
 
-# 🦖 Trixie & Rex: Perkmaster's Dungeon (Dino-Apocalypse)
+# 🦖 Trixie & Rex: Dino-Apocalypse
 
 A cute, hand-drawn, simple 2D survival/arcade game built entirely in **Processing (Java)**. Take control of Trixie, manage your items, survive a scaling difficulty meter, and prove Rex wrong by blasting past Level 3!
 
